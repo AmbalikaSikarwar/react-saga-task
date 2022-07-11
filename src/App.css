@@ -1,0 +1,76 @@
+.form-field {
+  margin: 15px 2px;
+}
+.error {
+  color: red;
+  margin: 0;
+  font-size: 14px;
+}
+.regForm {
+  background-color: lightblue;
+  width: 314px;
+  padding: 30px 0px 20px 30px;
+  border-radius: 2px;
+  margin: 50px 0px 0px 480px;
+}
+
+.loginForm {
+  background-color: lightblue;
+  width: 314px;
+  padding: 30px 0px 20px 30px;
+  border-radius: 2px;
+  margin: 50px 0px 0px 480px;
+}
+input {
+  height: 27px;
+}
+.navbar {
+  background-color: black;
+  color: red;
+  font-size: 17px;
+  height: 50px;
+ 
+}
+.active {
+  color: white;
+  text-decoration: underline;
+}
+#navlinkdash {
+  padding-left: 50px;
+  text-decoration: none;
+}
+#navlinkenquiry {
+  margin-left: -277px;
+  text-decoration: none;
+}
+#navlinkprofile {
+  margin-left: -277px;
+  text-decoration: none;
+}
+#navlinkfaq {
+  margin-left: -277px;
+  text-decoration: none;
+}
+#navlinklogout {
+  margin-right: 22px;
+  border-radius: 10px;
+}
+.MuiFilledInput-input{
+  padding: 15px 12px 10px !important ; 
+}
+
+.closebtn{
+  margin-left: 239px;
+}
+.dashboardMiddle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+
+
